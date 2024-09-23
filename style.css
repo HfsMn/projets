@@ -1,0 +1,13 @@
+img{width: 200px;height: 4cm;margin: 5px;border-radius: 30px;}
+.image{text-align: center;background-color: #d7ccc8;margin: 5px;border-radius: 10px;height: 350px;width: 35%;padding: 10px;}
+#i1{height: 140px;width: 160px;z-index: 2;margin: 10px;}
+#div1{display: flex;justify-content: space-between; background-color: #8d6e63;margin: 10px;align-items: center;height: 150px;}
+
+h1{text-align: center;}
+h2{text-align: center;}
+p{text-align: center;}
+#div2{background-image: url(background-office-bg-changed\ \(2\).jpg);color: white;height: 350px;margin: 10px;display: flex;align-items: center;flex-direction: column;}
+#div3{display: flex;justify-content: space-evenly;background-color: #f4f1ea;margin: 10px;padding: 10px;}
+#div4{background-color:  #efebe9;height: 200px;display: flex;flex-direction: column;justify-content: center;margin: 10px;align-items: center;}
+footer{text-align: center;background-color: #8d6e63;color: white;height: 50px;display: flex;justify-content: space-evenly;margin: 10px;align-items: center;padding: 5px;font-style: italic;}
+
